@@ -1,0 +1,43 @@
+.class1, .class2, .class3{
+	position: relative;
+	width: 100px;
+	height: 100px;
+}
+
+.class1{
+	background: red;
+}
+.class2{
+	background: green;
+	margin-left: 60px;
+	margin-top: -50px;
+}
+.class3{
+	background: blue;
+	margin-left: 120px;
+	margin-top: -50px;
+}
+
+.cl1{
+	width: 400px;
+	height: 200px;
+	background: yellow;
+	float: left;
+	overflow: hidden;
+	margin:10px;
+}
+.cl2, .cl3, .cl4{
+	width: 100px;
+	height: 100px;
+	float: left;
+	overflow: hidden;
+}
+.cl2{
+	background: rgb(23, 145, 63);
+}
+.cl3{
+	background: rgb(45, 76, 157);
+}
+.cl4{
+	background: rgb(73, 93, 105);
+}
